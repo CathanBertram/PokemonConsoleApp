@@ -1,0 +1,17 @@
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\CATHAN\Programs\Test\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
