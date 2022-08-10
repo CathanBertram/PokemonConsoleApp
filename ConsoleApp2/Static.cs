@@ -4,7 +4,7 @@
     public static readonly float healPercent = 1f;
     public static readonly int level = 100;
     public static readonly int tableWidth = 120;
-    public static readonly int minStreak = 0;
+    public static readonly int minStreak = 1;
     public static void PrintLine()
     {
         Console.WriteLine(new string('-', tableWidth));

@@ -217,7 +217,7 @@ void CSVWriter()
     FileStream fs = new FileStream($"Streakers{index}.csv", FileMode.Append, FileAccess.Write, FileShare.Read);
     writer = new StreamWriter(fs);
     writer.AutoFlush = true;
-    writer.WriteLine("Name,Lvl,Move,Move,Move,MoveStreak Length,HP,Atk,Def,SpAtk,SpDef,Spd,HPEV,AtkEV,DefEV,SpAtkEV,SpDefEV,SpdEV,HPIV,AtkIV,DefIV,SpAtkIV,SpDefIV,SpdIV,");
+    writer.WriteLine("Name,Lvl,Streak Length,Move,Move,Move,Move,HP,Atk,Def,SpAtk,SpDef,Spd,HPEV,AtkEV,DefEV,SpAtkEV,SpDefEV,SpdEV,HPIV,AtkIV,DefIV,SpAtkIV,SpDefIV,SpdIV,");
     while (!closing)
     {
         while (streakers.Count() > 0)
